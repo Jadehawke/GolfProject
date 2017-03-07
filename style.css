@@ -1,0 +1,225 @@
+
+html, body{
+    height: 100%;
+    width: 100%;
+
+html, body{
+    height: 100%;
+    width: 100%;
+
+}
+
+body{
+    background-image: url("greenCourse.jpeg");
+    height: 100%;
+    width: auto;
+}
+.bigContainer{
+    background-color: lightskyblue;
+    margin: 0 auto;
+    width: 90%;
+    padding: 20px;
+    border-radius: 3px;
+    margin-top: 100px;
+}
+
+.setUpModal{
+    color: black;
+    margin-left: 5%;
+
+}
+
+
+#container{
+    width: 90%;
+    margin: 20px auto;
+    border-radius: 4px;
+    background-color: white;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#leftCard{
+    border-radius: 4px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#rightCard{
+    width: auto;
+    display: flex;
+    margin: 0 auto;
+}
+
+.holcol{
+    border: 1px solid #CCC;
+    margin-right: 5px;
+    text-align: center;
+    width: 30px;
+
+}
+
+.holebox{
+    width: 100%;
+    text-align: center;
+
+
+}
+.inputStyle{
+    width: 26px;
+    text-align: center;
+}
+
+.parYardHdcStyle{
+    border: 1px solid #CCC;
+    margin-right: 5px;
+    text-align: center;
+    width: 30px;
+    float: left;
+
+
+}
+
+#pyhRows{
+    width: 90%;
+    margin: 20px auto;
+    border-radius: 4px;
+    background-color: white;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+#rightpyh{
+    margin: 0 auto;
+
+}
+
+#farRight{
+    float: right;
+    height: 20px;
+}
+
+#finishButton{
+    float: right;
+    margin-right: 5%;
+}
+
+
+
+}
+
+body{
+    background-image: url("greenCourse.jpeg");
+    height: 100%;
+    width: auto;
+}
+.bigContainer{
+    background-color: lightskyblue;
+    margin: 0 auto;
+    width: 90%;
+    padding: 20px;
+    border-radius: 3px;
+    margin-top: 100px;
+}
+
+.setUpModal{
+    color: black;
+    margin-left: 5%;
+
+}
+
+
+#container{
+    width: 90%;
+    margin: 20px auto;
+    border-radius: 4px;
+    background-color: white;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#leftCard{
+    border-radius: 4px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#rightCard{
+    width: auto;
+    display: flex;
+    margin: 0 auto;
+}
+
+.holcol{
+    border: 1px solid #CCC;
+    margin-right: 5px;
+    text-align: center;
+    width: 30px;
+
+}
+
+.holebox{
+    width: 100%;
+    text-align: center;
+
+
+}
+.inputStyle{
+    width: 26px;
+    text-align: center;
+}
+
+.parYardHdcStyle{
+    border: 1px solid #CCC;
+    margin-right: 5px;
+    text-align: center;
+    width: 30px;
+    float: left;
+
+
+}
+
+#pyhRows{
+    width: 90%;
+    margin: 20px auto;
+    border-radius: 4px;
+    background-color: white;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+#rightpyh{
+    margin: 0 auto;
+
+}
+
+#farRight{
+    float: right;
+    height: 20px;
+}
+
+#finishButton{
+    float: right;
+    margin-right: 5%;
+}
+
+#finalScoreBox{
+    background-color: white;
+    color: black;
+    padding: 5px;
+
+}
